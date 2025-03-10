@@ -1,2 +1,2 @@
 # cadastroNEXT
-Product catalog written in NEXT js
+Cadastro de produtos em NEXT js
